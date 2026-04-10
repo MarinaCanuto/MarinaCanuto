@@ -1,6 +1,6 @@
-# Olá, eu sou a Marina Canuto! 👋
+# 👋 Olá, eu sou a Marina Canuto!
 
-**Software Quality Engineering Student | ADS**
+### 💻 Software Quality Engineering Student | QA/QE
 
 Apaixonada por entender como as coisas funcionam e garantir a qualidade de software, evitando falhas e melhorando processos.
 
@@ -8,34 +8,35 @@ Apaixonada por entender como as coisas funcionam e garantir a qualidade de softw
 
 ## 🧪 Foco em Qualidade de Software (QA/QE)
 
-- Testes manuais (funcionais e regressão)
-- Criação de casos de teste
-- Automação de testes (em aprendizado)
-- Análise de requisitos e identificação de bugs
+- ✔️ Testes manuais (funcionais e regressão)  
+- ✔️ Criação de casos de teste  
+- ✔️ Automação de testes (em aprendizado)  
+- ✔️ Análise de requisitos e identificação de bugs  
+
+---
+
+## 🛠 Tecnologias
+
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
 ## 📊 Estatísticas
-<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MarinaCanuto&show_icons=true&theme=dark" width="400"/>
-
----
-
-## 💻 Linguagens
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaCanuto&layout=compact&theme=dark" width="400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarinaCanuto&show_icons=true&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaCanuto&layout=compact&theme=dark"/>
 
 ---
 
 ## 🚀 Projeto em destaque
-<br>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarinaCanuto&repo=Decodificador-de-texto&theme=dark" width="400"/>
+### 🔐 Decodificador de Texto
 
----
+Aplicação que criptografa e descriptografa mensagens de texto.
 
-## 🤝 Contato
+- 💡 Projeto desenvolvido para prática de lógica de programação  
+- 🛠 Tecnologias: HTML, CSS e JavaScript  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-canuto/)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username
