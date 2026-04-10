@@ -1,27 +1,20 @@
-# Olá, eu sou a Marina Canuto! 👋
+### Olá 👋
 
-**Software Quality Engineering Student | ADS**
+###### Sobre a Marina
+Estudante de Análise e Desenvolvimento de Sistemas com foco total em **Engenharia de Qualidade de Software (QA)**. Atualmente desenvolvendo habilidades em testes manuais, automação e processos de garantia de qualidade para entregar softwares mais robustos e eficientes.
 
-Apaixonada por entender como as coisas funcionam e, principalmente, como garantir que elas não falhem. Estou migrando para a área de tecnologia com foco total em **Garantia de Qualidade (QA)**, unindo a visão analítica de processos com o desenvolvimento de software.
+### Detalhes
 
-### 🧪 Foco em Qualidade de Software (QA/QE)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinaCanuto&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-* **Testes Manuais:** Escrita de casos de teste, planos de teste e execução de testes funcionais e de regressão.
-* **Automação:** Desenvolvendo scripts para otimizar o ciclo de entrega e garantir a estabilidade do produto.
-* **Mindset Analítico:** Foco em identificar bugs, analisar requisitos e promover a melhoria contínua.
+### Projetos
 
-### 📊 Detalhes e Estatísticas
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarinaCanuto&repo=Decodificador-de-texto&theme=dark)](https://github.com/MarinaCanuto/Decodificador-de-texto)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MarinaCanuto&show_icons=true&theme=dark)
+### Linguagens utilizadas
 
-### 💻 Linguagens e Tecnologias
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaCanuto&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaCanuto&layout=compact&theme=dark)
+### Contatos
 
-### 📊 Destaque de Projetos
-
-![Projeto em destaque](https://github-readme-stats.vercel.app/api/pin/?username=MarinaCanuto&repo=Decodificador-de-texto&theme=dark)
-
-### 🤝 Contatos
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-canuto/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/marina-canuto/)
