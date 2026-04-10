@@ -16,14 +16,12 @@ Apaixonada por entender como as coisas funcionam e, principalmente, como garanti
 
 ### 💻 Linguagens e Tecnologias
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaCanuto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaCanuto&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📊 Destaque de Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarinaCanuto&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarinaCanuto&repo=Decodificador-de-texto&theme=dark)](https://github.com/MarinaCanuto/Decodificador-de-texto)
 
 ### 🤝 Contatos
 
-
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>]([https://www.linkedin.com/in/pedrobrocaldi/](https://www.linkedin.com/in/marina-canuto/))
-
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/marina-canuto/)
