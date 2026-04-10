@@ -1,42 +1,28 @@
-# 👋 Olá, eu sou a Marina Canuto!
+### Olá 👋
 
-### 💻 Software Quality Engineering Student | QA/QE
-
-Apaixonada por entender como as coisas funcionam e garantir a qualidade de software, evitando falhas e melhorando processos.
-
----
-
-## 🧪 Foco em Qualidade de Software (QA/QE)
-
-- ✔️ Testes manuais (funcionais e regressão)  
-- ✔️ Criação de casos de teste  
-- ✔️ Automação de testes (em aprendizado)  
-- ✔️ Análise de requisitos e identificação de bugs  
+###### Sobre a Marina
+Estudante de Análise e Desenvolvimento de Sistemas com foco em Qualidade de Software (QA/QE). Apaixonada por entender como os sistemas funcionam e garantir que entreguem qualidade, confiabilidade e uma boa experiência para o usuário.
 
 ---
 
-## 🛠 Tecnologias
+### Detalhes
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinaCanuto&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 📊 Estatísticas
+### Projetos
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarinaCanuto&show_icons=true&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaCanuto&layout=compact&theme=dark"/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarinaCanuto&repo=Decodificador-de-texto&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 🚀 Projeto em destaque
+### Linguagens utilizadas
 
-### 🔐 Decodificador de Texto
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaCanuto&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Aplicação que criptografa e descriptografa mensagens de texto.
+---
 
-- 💡 Projeto desenvolvido para prática de lógica de programação  
-- 🛠 Tecnologias: HTML, CSS e JavaScript  
+### Contatos
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/marina-canuto/)
