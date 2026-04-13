@@ -1,28 +1,42 @@
-### Olá 👋
 
-###### Sobre a Marina
-Estudante de Análise e Desenvolvimento de Sistemas com foco em Qualidade de Software (QA/QE). Apaixonada por entender como os sistemas funcionam e garantir que entreguem qualidade, confiabilidade e uma boa experiência para o usuário.
+# 👋 Olá, eu sou a Marina Canuto
 
----
+🎯 QA Engineer em formação, com foco em automação de testes
 
-### Detalhes
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinaCanuto&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+Sou Estudante de Análise e Desenvolvimento de Sistemas com foco em Qualidade de Software (QA/QE). Apaixonada por entender como os sistemas funcionam e garantir que entreguem qualidade, confiabilidade e uma boa experiência para o usuário.
 
 ---
 
-### Projetos
+## 🚀 Tecnologias e Ferramentas
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarinaCanuto&repo=Decodificador-de-texto&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaCanuto&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+* 📱 Testes Mobile: Appium + WebdriverIO
+* 🌐 Testes E2E/UI: Cypress
+* 🔗 Testes de API: Cypress e Postman
+* 📊 Testes de Performance: JMeter
+* 💻 Linguagens: JavaScript
 
 ---
 
-### Contatos
+## 📂 Projetos em destaque
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/marina-canuto/)
+* 📱 Automação Mobile com Appium
+* 🌐 Testes E2E com Cypress
+* 🔗 Testes de API automatizados
+* 📊 Testes de performance com JMeter
+
+---
+
+## 💡 Sobre mim
+
+* Focada em automação de testes
+* Interesse em testes mobile e API
+* Em constante aprendizado na área de QA
+
+---
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/marina-canuto/)
+
+---
+
