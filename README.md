@@ -10,18 +10,31 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na Estácio** e especi
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Cypress](https://img.shields.io/badge/-cypress-%23E9E9E9?style=for-the-badge&logo=cypress&logoColor=6082bb)
+![BDD](https://img.shields.io/badge/BDD-Cucumber-green?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-6082bb?style=for-the-badge&logo=appium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Portfólio de Projetos
 
-* 📱 [Automação Mobile com Appium](https://github.com/MarinaCanuto/test-automation-mobile-login) - Testes automatizados para Android/iOS.
-* 🌐 [Testes E2E com Cypress](https://github.com/MarinaCanuto/cypress-e2e-tests-ebac-shop) - Garantindo a qualidade da interface web.
-* 🔗 [Testes de API automatizados](https://github.com/MarinaCanuto/api-tests-cypress-users) - Validação de endpoints e integração.
-* 📊 [Testes de Performance com JMeter](https://github.com/MarinaCanuto/jmeter-performance-test-youtube) - Análise de carga e stress.
+### 🌐 Automação Web (E2E)
+* **[Cypress: EBAC Shop](https://github.com/MarinaCanuto/cypress-e2e-tests-ebac-shop)** - Testes ponta a ponta focados em e-commerce.
+* **[Cypress: UI Tests](https://github.com/MarinaCanuto/cypress-ui-tests)** - Automação de interface utilizando Cypress.
+* **[Cypress + BDD (Cucumber)](https://github.com/MarinaCanuto/qa-e2e-cypress-bdd)** - Validação de fluxos com escrita em Gherkin.
+
+### 📱 Automação Mobile
+* **[Appium: Mobile Login](https://github.com/MarinaCanuto/test-automation-mobile-login)** - Testes mobile para Android usando WebdriverIO e Appium.
+
+### 🔗 Testes de API & Performance
+* **[Cypress: API Users](https://github.com/MarinaCanuto/api-tests-cypress-users)** - Automação de testes de back-end com Cypress.
+* **[Postman: API Testing](https://github.com/MarinaCanuto/api-tests-postman-users)** - Coleções de testes para validação de endpoints.
+* **[JMeter: Performance](https://github.com/MarinaCanuto/jmeter-performance-test-youtube)** - Testes de carga e análise de performance.
+
+### 🧠 Estratégia & Lógica
+* **[Cenários de Teste BDD](https://github.com/MarinaCanuto/bdd-test-scenarios)** - Escrita de cenários e comportamentos (Gherkin).
+* **[Lógica de Programação (C)](https://github.com/MarinaCanuto/logica-programacao-c)** - Fundamentos de programação e algoritmos.
 
 ---
 
